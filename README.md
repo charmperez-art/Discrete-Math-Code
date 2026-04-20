@@ -1,6 +1,5 @@
 # Discrete-Math-Code
-Discrete Math Code
-MEMBERS
+MEMBERS:
 PEREZ, CHARM EDGAIL
 NARAGA, ARVIE
 RODA, JOHNLLYOD
